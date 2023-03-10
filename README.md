@@ -1,2 +1,2 @@
 # EAS_PBKK_Kelompok10
-Laravel APP untuk cuality control produk
+Laravel APP untuk quality control produk
